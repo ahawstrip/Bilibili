@@ -143,7 +143,7 @@ def one_process(dir_, urls_and_titles):
     
 if __name__ == '__main__':   
     # 视频编号，替换为自己需要下载的视频编号
-    aid = '6538245'
+    aid = '1sK4y1U7F2'
     
     # 一个视频可能分很多，定义从第几页开始下载
     start_page = 1
